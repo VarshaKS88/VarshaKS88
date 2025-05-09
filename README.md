@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Varsha K S** am Full stack Developer.
 ---
 <h1> Am from Bangalore</h1>
